@@ -12,5 +12,6 @@ Last, and I've saved the best for it, is an interactive dashboard from a project
 
 Checkout the dashboard here: [Sprocket Central Dashboard](https://jdjustus94.github.io/Sprocket-Central-Customer-Spending-Breakdown/)
 
-Check out my [LINKEDIN](https://www.linkedin.com/in/joshua-justus/)
+Check out my [LinkedIn](https://www.linkedin.com/in/joshua-justus/) for more information.
+
 Head [Home](./README.md)
