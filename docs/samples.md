@@ -10,8 +10,8 @@ Check out the full repository here: [Video Rental Store](https://github.com/jdju
 
 Last, and I've saved the best for it, is an interactive dashboard from a project I worked on. This dashboard utilizes hypothetical data from Sprocket Central provided by KPMG AU. The different visualizations are interactable and the drop down menus are functional. Feel free to play around and checkout the viz!
 
-Checkout the dashboard here: [Sprocket Central Dashboard](https://jdjustus94.github.io/Sprocket-Central-Customer-Spending-Breakdown/)
+### Checkout the dashboard here: [Sprocket Central Dashboard](https://jdjustus94.github.io/Sprocket-Central-Customer-Spending-Breakdown/)
 
-Check out my [LinkedIn](https://www.linkedin.com/in/joshua-justus/) for more information.
+##### Check out my [LinkedIn](https://www.linkedin.com/in/joshua-justus/) for more information.
 
-Head [Home](./README.md)
+##### Head [Home](./README.md)
