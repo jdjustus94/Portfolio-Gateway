@@ -5,5 +5,5 @@ It was here that I truly explored data as a means to rectify this dilemma. With 
 ### To checkout some samples of my projects click [Here](./samples.md)
 ### Want to reach me? Here's [How](./contact.md)
 
-#### Check out my [![LinkedIn](assets/images/LI-In-Bug.png)](https://www.linkedin.com/in/joshua-justus/) for more information
+#### Check out my [LinkedIn][![LinkedIn](assets/images/LI-In-Bug.png)](https://www.linkedin.com/in/joshua-justus/) for more information
 #### See my [GitHub](https://github.com/jdjustus94) for more of my work
