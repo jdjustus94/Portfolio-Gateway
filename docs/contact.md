@@ -1,3 +1,5 @@
+---
+---
 ## Contact Information
 
 ### You can message me at my LinkedIn [![LinkedIn](assets/images/LI-In-Bug.png)](https://www.linkedin.com/in/joshua-justus/).
