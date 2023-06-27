@@ -5,3 +5,5 @@ plugins:
 image: /Portfolio-Gateway/assets/images/Josh_png.png
 title: [Welcome! I'm so glad you made it!]
 description: [Feel free to browse]
+titles_from_headings:
+enabled: false
