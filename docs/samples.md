@@ -13,7 +13,7 @@ This is to answer some basic business questions on what movies are popular per g
 
 #### Last, and I've saved the best for it, is an interactive dashboard from a project I worked on. This dashboard utilizes hypothetical data from Sprocket Central provided by KPMG AU. The different visualizations are interactable and the drop down menus are functional. Feel free to play around and checkout the viz!
 
-## Checkout the dashboard here: [Sprocket Central Dashboard](https://jdjustus94.github.io/Sprocket-Central-Customer-Spending-Breakdown/)
+## Checkout the dashboard here: [![Sprocket Central Dashboard](assets/images/sprocket_central_png.png)](https://jdjustus94.github.io/Sprocket-Central-Customer-Spending-Breakdown/)
 
 ### Check out my LinkedIn [![LinkedIn](assets/images/LI-In-Bug.png)](https://www.linkedin.com/in/joshua-justus/) for more information.                               
 ### See my Github [![GitHub](assets/images/github-mark.png)](https://github.com/jdjustus94) for more of my work.
