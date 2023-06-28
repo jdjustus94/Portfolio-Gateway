@@ -5,12 +5,11 @@
 ### You can message me at my LinkedIn [![LinkedIn](assets/images/LI-In-Bug.png)](https://www.linkedin.com/in/joshua-justus/).
 
 
-#### You can also email me at jjustus2@yahoo.com.
+### You can also email me at jjustus2@yahoo.com.
 
 My resume is also available upon request.
 
-
-
-
+---
 ### Head [Home](./README.md)
 ### Checkout some [Samples](./samples.md)
+---
