@@ -7,9 +7,8 @@
 
 ### You can also email me at jjustus2@yahoo.com.
 
-My resume is also available upon request.
+##### My resume is also available upon request.
 
 
 ### Head [Home](./README.md)
 ### Checkout some [Samples](./samples.md)
----
