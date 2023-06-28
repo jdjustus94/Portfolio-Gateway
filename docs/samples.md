@@ -16,8 +16,8 @@ This is to answer some basic business questions on what movies are popular per g
 ## Checkout the dashboard here: 
 [![Sprocket Central Dashboard](assets/images/sprocket_central_png.png)](https://jdjustus94.github.io/Sprocket-Central-Customer-Spending-Breakdown/)
 
-### Check out my LinkedIn [![LinkedIn](assets/images/LI-In-Bug.png)](https://www.linkedin.com/in/joshua-justus/) for more information.                               
-### See my Github [![GitHub](assets/images/github-mark.png)](https://github.com/jdjustus94) for more of my work.
+### Check out my LinkedIn for more information: [![LinkedIn](assets/images/LI-In-Bug.png)](https://www.linkedin.com/in/joshua-justus/)                               
+### See my Github for more of my work: [![GitHub](assets/images/github-mark.png)](https://github.com/jdjustus94)
 
 __________________________________
 
