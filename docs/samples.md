@@ -18,5 +18,5 @@ This is to answer some basic business questions on what movies are popular per g
 ### Check out my LinkedIn [![LinkedIn](assets/images/LI-In-Bug.png)](https://www.linkedin.com/in/joshua-justus/) for more information.                               
 ### See my Github [![GitHub](assets/images/github-mark.png)](https://github.com/jdjustus94) for more of my work.
 
-#### Head [Home](./README.md)
-#### [Contact](./contact.md) me
+#### * Head [Home](./README.md)
+#### * [Contact](./contact.md) me
