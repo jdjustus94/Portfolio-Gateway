@@ -10,5 +10,5 @@
 ##### My resume is also available upon request.
 
 
-### Head [Home](./README.md)
-### Checkout some [Samples](./samples.md)
+### * Head [Home](./README.md)
+### * Checkout some [Samples](./samples.md)
