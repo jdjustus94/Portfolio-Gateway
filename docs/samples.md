@@ -1,4 +1,5 @@
-### Here I present some snippets of various projects I've worked on.
+---
+## Here I present some snippets of various projects I've worked on.
 
 Here is a sample of some SQL I did when querying a SuperStore data set:
 ![SuperStore Sample](./assets/images/superstore_sample.png)
