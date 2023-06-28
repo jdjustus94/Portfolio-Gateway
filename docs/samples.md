@@ -21,5 +21,5 @@ This is to answer some basic business questions on what movies are popular per g
 
 __________________________________
 
-#### * Head [Home](./README.md)
-#### * [Contact](./contact.md) me
+### * Head [Home](./README.md)
+### * [Contact](./contact.md) me
